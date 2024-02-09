@@ -24,4 +24,4 @@ Edit it to add :
 
 ### Colab
 
-Download fittingpolfluor.ipynb and upload it into https://colab.research.google.com/
+You can access it at https://colab.research.google.com/github/maciaslab/fitFP/blob/main/fittingpolfluor.ipynb
