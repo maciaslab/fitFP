@@ -10,6 +10,8 @@ Easy fitting of Fluorescence Polarization data
 
 
 ## Use
+You can download it to use it locally, or you can use it in Google Colaboratory.
+
 
 ### Command line
 
